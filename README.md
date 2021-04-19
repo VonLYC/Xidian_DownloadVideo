@@ -12,4 +12,8 @@ pip3 install -r requirements.txt
 
 接下来找到你要下载的课程的URL（如下图所示，每一节课都有一个URL）
 ![(S@WHI4SF6A8 5OM_QE535X](https://user-images.githubusercontent.com/43775038/115207470-36822b00-a12e-11eb-972f-5bd3785cbdaa.png)
-最后在download_m3u8_video.py中修改你的Chrome路径地址和下载的课程的URL，运行download_m3u8_video.py就行了
+最后在download_m3u8_video.py中修改你的Chrome路径地址和下载的课程的URL
+
+![H7{ZI _TMO__`4J77C M4%5](https://user-images.githubusercontent.com/43775038/115208261-f3748780-a12e-11eb-9c4b-5436936bfe14.png)
+
+运行download_m3u8_video.py就行了
